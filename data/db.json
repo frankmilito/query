@@ -1,0 +1,12 @@
+{
+  "todos": [
+    {
+      "userId": 1,
+      "id": 1,
+      "completed": false,
+      "title": "Almonds, Unsalted, in the blue bag"
+    },
+    {"userId": 1, "id": 2, "completed": false, "title": "Pizza"},
+    {"userId": 1, "id": 3, "completed": false, "title": "Bread"}
+  ]
+}
